@@ -1,2 +1,3 @@
 # banco-escola!
-[banco-escola](https://github.com/user-attachments/assets/4c13cc78-58ea-41b6-bc3d-06ae12504b06)
+
+![banco-escola](https://github.com/user-attachments/assets/d958947b-7e05-45cf-beee-fe57c903b7ac)
